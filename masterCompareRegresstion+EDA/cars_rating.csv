@@ -1,0 +1,173 @@
+Index,Car,Price,Overall Rating,Exterior,Interior,Ride Quality
+0,Maruti Suzuki Alto K10,  3.99 - 5.96 Lakh,4.4,4.4,4.4,4.4
+1,Maruti Suzuki Alto 800,  3.25 - 5.12 Lakh,4.2,4,3.8,4.2
+2,Renault Kwid,  4.70 - 6.45 Lakh,3.5,2.7,3,2.3
+3,Maruti Suzuki Alto K10,  3.99 - 5.96 Lakh,4.4,4.4,4.4,4.4
+4,Maruti Suzuki Alto 800,  3.25 - 5.12 Lakh,4.2,4,3.8,4.2
+5,Maruti Suzuki S-Presso,  4.26 - 6.12 Lakh,3.7,4.7,4.7,4.3
+6,Hyundai Exter,  6.00 - 10.10 Lakh,4.8,4.8,4.9,4.9
+7,Maruti Suzuki Fronx,  7.47 - 13.14 Lakh,4.5,4.2,4.5,4.8
+8,Hyundai Grand i10 Nios,  5.73 - 8.51 Lakh,5,5,5,4.5
+9,Renault Kwid,  4.70 - 6.45 Lakh,3.5,2.7,3,2.3
+10,Tata Altroz,  6.00 - 10.74 Lakh,4.3,4.5,4.3,4.5
+11,Hyundai Aura,  6.33 - 8.90 Lakh,3.5,4.7,4,3.7
+12,Maruti Suzuki Baleno,  6.45 - 9.88 Lakh,4.7,4.8,4.1,4.1
+13,Hyundai i20,  7.19 - 11.83 Lakh,4.1,4.4,4.4,4.2
+14,Honda Amaze,  6.91 - 11.52 Lakh,4.1,4.3,4.8,4.2
+15,Tata Nexon,  7.79 - 14.60 Lakh,3.9,3.9,4.1,4
+16,Renault Triber,  6.34 - 8.98 Lakh,3.2,4.4,4.2,3.4
+17,Maruti Suzuki Alto K10,  3.99 - 5.96 Lakh,4.4,4.4,4.4,4.4
+18,Maruti Suzuki Swift,  5.99 - 9.03 Lakh,4.2,4.2,4,4.3
+19,Maruti Suzuki Alto 800,  3.25 - 5.12 Lakh,4.2,4,3.8,4.2
+20,Hyundai Venue,  7.72 - 13.18 Lakh,4.9,4.9,4.9,5
+21,Tata Punch,  6.00 - 9.54 Lakh,4.1,4.8,4.4,4.6
+22,Tata Tiago,  5.53 - 8.15 Lakh,4,4.1,4.2,4.2
+23,Nissan Magnite,  6.00 - 10.86 Lakh,4.3,4.8,4.6,4.5
+24,Toyota Glanza,  6.81 - 10.00 Lakh,4.8,5,5,5
+25,Kia Sonet,  7.79 - 14.89 Lakh,3,3,3,3
+26,Hyundai Exter,  6.00 - 10.10 Lakh,4.8,4.8,4.9,4.9
+27,Maruti Suzuki Fronx,  7.47 - 13.14 Lakh,4.5,4.2,4.5,4.8
+28,Hyundai Grand i10 Nios,  5.73 - 8.51 Lakh,5,5,5,4.5
+29,Renault Kwid,  4.70 - 6.45 Lakh,3.5,2.7,3,2.3
+30,Tata Altroz,  6.00 - 10.74 Lakh,4.3,4.5,4.3,4.5
+31,Hyundai Aura,  6.33 - 8.90 Lakh,3.5,4.7,4,3.7
+32,Maruti Suzuki Baleno,  6.45 - 9.88 Lakh,4.7,4.8,4.1,4.1
+33,Hyundai i20,  7.19 - 11.83 Lakh,4.1,4.4,4.4,4.2
+34,Honda Amaze,  6.91 - 11.52 Lakh,4.1,4.3,4.8,4.2
+35,Tata Nexon,  7.79 - 14.60 Lakh,3.9,3.9,4.1,4
+36,Maruti Suzuki Brezza,  8.27 - 14.14 Lakh,4.4,4.7,4.5,4.5
+37,Renault Triber,  6.34 - 8.98 Lakh,3.2,4.4,4.2,3.4
+38,Maruti Suzuki Swift,  5.99 - 9.03 Lakh,4.2,4.2,4,4.3
+39,Maruti Suzuki Ertiga,  8.35 - 13.08 Lakh,4.4,4.5,4.1,4.4
+40,Hyundai Venue,  7.72 - 13.18 Lakh,4.9,4.9,4.9,5
+41,Tata Punch,  6.00 - 9.54 Lakh,4.1,4.8,4.4,4.6
+42,Mahindra Bolero,  9.53 - 10.79 Lakh,5,5,4,5
+43,Mahindra XUV300,  8.10 - 14.60 Lakh,4.1,4.9,4.7,4.7
+44,Tata Tiago,  5.53 - 8.15 Lakh,4,4.1,4.2,4.2
+45,Mahindra Bolero Neo,  9.48 - 12.14 Lakh,0,,,
+46,Kia Seltos,  10.89 - 19.99 Lakh,0,,,
+47,Hyundai Exter,  6.00 - 10.10 Lakh,4.8,4.8,4.9,4.9
+48,Maruti Suzuki Jimny,  12.74 - 15.05 Lakh,5,4.5,5,4.5
+49,Maruti Suzuki Fronx,  7.47 - 13.14 Lakh,4.5,4.2,4.5,4.8
+50,Mahindra Scorpio,  12.64 - 16.81 Lakh,4.9,5,4.7,4.7
+51,Mahindra Thar,  9.99 - 16.78 Lakh,4,4.3,3.9,4.1
+52,Honda City,  11.60 - 16.08 Lakh,5,5,5,5
+53,Maruti Suzuki Grand Vitara,  10.57 - 19.90 Lakh,4.7,5,4.8,4.8
+54,Hyundai i20,  7.19 - 11.83 Lakh,4.1,4.4,4.4,4.2
+55,Mahindra Scorpio N,  12.74 - 24.52 Lakh,4.3,4.9,4.5,4.7
+56,Tata Nexon,  7.79 - 14.60 Lakh,3.9,3.9,4.1,4
+57,Maruti Suzuki Brezza,  8.27 - 14.14 Lakh,4.4,4.7,4.5,4.5
+58,Toyota Urban Cruiser Hyryder,  10.86 - 19.99 Lakh,4,4.5,4,4.5
+59,Hyundai Verna,  10.90 - 17.38 Lakh,5,5,5,5
+60,Mahindra XUV700,  13.45 - 26.18 Lakh,4.6,4.5,4.6,4.3
+61,Maruti Suzuki Ertiga,  8.35 - 13.08 Lakh,4.4,4.5,4.1,4.4
+62,Kia Seltos,  10.89 - 19.65 Lakh,5,4.5,5,4.5
+63,Hyundai Venue,  7.72 - 13.18 Lakh,4.9,4.9,4.9,5
+64,Hyundai Creta,  10.87 - 19.20 Lakh,4.2,4,4,4
+65,Tata Altroz,  6.00 - 10.74 Lakh,4.3,4.5,4.3,4.5
+66,Kia Seltos,  10.90 - 20.00 Lakh,0,,,
+67,Hyundai Exter,  6.00 - 10.10 Lakh,4.8,4.8,4.9,4.9
+68,Maruti Suzuki Jimny,  12.74 - 15.05 Lakh,5,4.5,5,4.5
+69,Maruti Suzuki Fronx,  7.47 - 13.14 Lakh,4.5,4.2,4.5,4.8
+70,Mahindra Scorpio,  12.64 - 16.81 Lakh,4.9,5,4.7,4.7
+71,Mahindra Thar,  9.99 - 16.78 Lakh,4,4.3,3.9,4.1
+72,Honda City,  11.60 - 16.08 Lakh,5,5,5,5
+73,Maruti Suzuki Grand Vitara,  10.57 - 19.90 Lakh,4.7,5,4.8,4.8
+74,Hyundai i20,  7.19 - 11.83 Lakh,4.1,4.4,4.4,4.2
+75,Mahindra Scorpio N,  12.74 - 24.52 Lakh,4.3,4.9,4.5,4.7
+76,Tata Nexon,  7.79 - 14.60 Lakh,3.9,3.9,4.1,4
+77,Maruti Suzuki Brezza,  8.27 - 14.14 Lakh,4.4,4.7,4.5,4.5
+78,Toyota Urban Cruiser Hyryder,  10.86 - 19.99 Lakh,4,4.5,4,4.5
+79,Toyota Innova Hycross,  18.82 - 30.26 Lakh,4.3,4.3,4.3,4.7
+80,Hyundai Verna,  10.90 - 17.38 Lakh,5,5,5,5
+81,Mahindra XUV700,  13.45 - 26.18 Lakh,4.6,4.5,4.6,4.3
+82,Maruti Suzuki Ertiga,  8.35 - 13.08 Lakh,4.4,4.5,4.1,4.4
+83,Kia Seltos,  10.89 - 19.65 Lakh,5,4.5,5,4.5
+84,Hyundai Venue,  7.72 - 13.18 Lakh,4.9,4.9,4.9,5
+85,Hyundai Creta,  10.87 - 19.20 Lakh,4.2,4,4,4
+86,Maruti Suzuki Invicto,  24.79 - 28.42 Lakh,0,,,
+87,Mahindra Scorpio N,  12.74 - 24.52 Lakh,4.3,4.9,4.5,4.7
+88,Toyota Innova Hycross,  18.82 - 30.26 Lakh,4.3,4.3,4.3,4.7
+89,Mahindra XUV700,  13.45 - 26.18 Lakh,4.6,4.5,4.6,4.3
+90,Tata Harrier,  15.20 - 24.27 Lakh,0,,,
+91,Jeep Compass,  19.27 - 32.67 Lakh,3.7,4,3.9,3.7
+92,Tata Safari,  15.85 - 25.21 Lakh,0,,,
+93,MG Hector,  14.73 - 22.32 Lakh,0,,,
+94,Toyota Innova Crysta,  19.38 - 25.68 Lakh,0,,,
+95,Hyundai Alcazar,  16.10 - 21.13 Lakh,0,,,
+96,Isuzu D-Max,  19.48 - 27.00 Lakh,3.8,4,4,4.5
+97,Hyundai Tucson,  28.63 - 35.46 Lakh,0,,,
+98,MG Hector Plus,  17.50 - 23.17 Lakh,0,,,
+99,MG ZS EV,  21.99 - 27.40 Lakh,3.7,4.3,4.7,4
+100,Hyundai Kona Electric,  23.84 - 24.03 Lakh,4.5,5,4.5,4.5
+101,Honda City Hybrid eHEV,  18.92 - 20.42 Lakh,0,,,
+102,BYD e6,  29.15 Lakh,0,,,
+103,Toyota Innova Hycross,  18.82 - 30.26 Lakh,4.3,4.3,4.3,4.7
+104,Toyota Fortuner,  32.98 - 50.74 Lakh,4.2,4.5,4.2,4.5
+105,Jeep Compass,  19.27 - 32.67 Lakh,3.7,4,3.9,3.7
+106,Kia Carnival,  25.48 - 35.48 Lakh,5,4.5,5,5
+107,Jeep Meridian,  27.75 - 38.10 Lakh,0,,,
+108,Skoda Kodiaq,  37.49 - 41.39 Lakh,0,,,
+109,BYD Atto 3,  33.99 - 34.49 Lakh,5,5,5,5
+110,Skoda Superb,  30.49 - 37.27 Lakh,4,4.2,4.6,4.3
+111,MG Gloster,  32.60 - 43.08 Lakh,3.3,4,4.3,4.3
+112,Toyota Hilux,  30.41 - 37.90 Lakh,5,5,5,5
+113,Hyundai Tucson,  28.63 - 35.46 Lakh,0,,,
+114,Volkswagen Tiguan,  34.18 - 34.70 Lakh,5,5,5,5
+115,Citroen C5 Aircross,  37.17 Lakh,0,,,
+116,Isuzu MU-X,  34.94 - 37.90 Lakh,0,,,
+117,Mercedes-Benz A-Class Limousine,  45.80 - 47.00 Lakh,5,5,5,5
+118,Toyota Fortuner,  32.98 - 50.74 Lakh,4.2,4.5,4.2,4.5
+119,BMW X1,  45.90 - 50.89 Lakh,0,,,
+120,BMW 2 Series Gran Coupe,  41.49 - 45.50 Lakh,5,5,4.5,4.5
+121,Toyota Fortuner Legender,  43.22 - 46.94 Lakh,5,5,5,5
+122,Audi A4,  43.81 - 51.85 Lakh,3.9,3.5,3.4,3.4
+123,Skoda Kodiaq,  37.49 - 41.39 Lakh,0,,,
+124,MG Gloster,  32.60 - 43.08 Lakh,3.3,4,4.3,4.3
+125,Audi Q3,  45.65 - 51.24 Lakh,5,5,5,5
+126,MINI Cooper,  29.90 - 43.90 Lakh,4,,,
+127,Toyota Camry,  46.17 Lakh,0,,,
+128,Hyundai Ioniq 5,  45.95 Lakh,0,,,
+129,MINI Countryman,  34.92 - 47.40 Lakh,4,,,
+130,Volvo XC40,  46.40 Lakh,0,,,
+131,Mercedes-Benz GLA,  48.46 - 52.66 Lakh,0,,,
+132,Land Rover Range Rover Velar,  93.00 Lakh,0,,,
+133,BMW X5,  93.90 Lakh - 1.07 Crore,0,,,
+134,BMW M2,  98.00 Lakh,0,,,
+135,BMW Z4,  89.30 Lakh,0,,,
+136,Mercedes-Benz AMG A45 S,  92.50 Lakh,0,,,
+137,BMW X3 M40i,  86.50 Lakh,0,,,
+138,Toyota Fortuner,  32.98 - 50.74 Lakh,4.2,4.5,4.2,4.5
+139,Land Rover Defender,  76.57 Lakh - 2.30 Crore,0,,,
+140,BMW 3 Series Gran Limousine,  58.90 - 60.50 Lakh,0,,,
+141,Land Rover Range Rover Velar,  72.61 Lakh - 1.32 Crore,0,,,
+142,BMW M340i,  69.20 Lakh,0,,,
+143,Volvo XC40 Recharge,  56.90 Lakh,0,,,
+144,Jeep Wrangler,  60.60 - 64.60 Lakh,0,,,
+145,Audi A4,  43.81 - 51.85 Lakh,3.9,3.5,3.4,3.4
+146,Lexus ES,  56.53 - 67.95 Lakh,0,,,
+147,Volvo XC60,  67.50 Lakh,0,,,
+148,Land Rover Range Rover Evoque,  59.03 - 72.09 Lakh,5,4,4,5
+149,Jaguar F-Type,  97.93 Lakh - 2.61 Crore,5,4.5,4.5,5
+150,Audi Q3,  45.65 - 51.24 Lakh,5,5,5,5
+151,Volvo S90,  67.90 Lakh,0,,,
+152,BMW X5,  93.90 Lakh - 1.07 Crore,0,,,
+153,Mercedes-Benz AMG SL55 Roadster,  2.35 Crore,0,,,
+154,Mercedes-Benz G-Class,  2.55 Crore,0,,,
+155,Toyota Land Cruiser,  2.10 Crore,0,,,
+156,Land Rover Defender,  76.57 Lakh - 2.30 Crore,0,,,
+157,Land Rover Range Rover,  2.39 - 4.17 Crore,0,,,
+158,Lamborghini Urus Performante,  4.18 - 4.22 Crore,0,,,
+159,Jaguar F-Type,  97.93 Lakh - 2.61 Crore,5,4.5,4.5,5
+160,BMW X7,  1.22 - 1.25 Crore,0,,,
+161,Porsche 911,  1.84 - 3.34 Crore,4,,,
+162,Lamborghini Huracan STO,  4.99 Crore,0,,,
+163,Porsche 718,  85.95 Lakh - 2.74 Crore,0,,,
+164,Porsche Cayenne,  1.19 - 1.93 Crore,4,,,
+165,Lamborghini Huracan Evo,  2.84 - 4.10 Crore,4.1,4,3.8,4.2
+166,BMW 7 Series,  1.70 Crore,0,,,
+167,BMW i7,  1.95 Crore,0,,,
+168,Land Rover Range Rover Sport,  1.64 - 1.84 Crore,0,,,
+169,Aston Martin DBX,  3.82 - 4.63 Crore,0,,,
+170,Porsche Macan,  88.06 Lakh - 1.53 Crore,0,,,
+171,BMW XM,  2.60 Crore,0,,,
