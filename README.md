@@ -12,6 +12,10 @@ In this project, I focused on optimizing the values of performance metrics for a
 
 Overfitting is a common problem in machine learning models. This project demonstrates how data augmentation techniques can help fix overfitting and improve model generalization.
 
+https://www.kaggle.com/code/kritsadakruapat/cnnchangedatacolor-notjustred
+
+### All table (Model view) 
+![model](MasterPowerBI/ModelView.png)
 
 ## Project 3: Comparing Regression Models + Exploratory Data Analysis(EDA)
 
