@@ -18,9 +18,9 @@ In this project, I focused on optimizing the values of performance metrics for a
 Overfitting is a common problem in machine learning models. This project demonstrates how data augmentation techniques can help fix overfitting and improve model generalization.
 
 
-## Project 3: Comparing Regression Models + Data Augmentation
+## Project 3: Comparing Regression Models + Exploratory Data Analysis(EDA)
 
-This project involves a comprehensive comparison of different regression models with and without data augmentation. The goal is to identify the best-performing model and understand the impact of data augmentation.
+This project involves a comprehensive comparison of different regression models. The goal is to identify the best-performing model.
 
 
 ## Project 4: Transfer Learning with ResNet-50
