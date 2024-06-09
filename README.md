@@ -2,6 +2,8 @@
 
 Welcome to my Data Science portfolio! This repository showcases my work in optimizing performance metrics, fixing overfitting with data augmentation, comparing regression models, and utilizing transfer learning with ResNet-50 and etc.
 
+### this is highlighted notebook model from my projects in kaggle:
+
 ## Project 1: Optimizing Performance Metrics
 
 In this project, I focused on optimizing the values of performance metrics for a given model. The goal was to find the best possible combination of hyperparameters to achieve the highest performance.
