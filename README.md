@@ -2,7 +2,7 @@
 
 Welcome to my Data Science portfolio! This repository showcases my work in optimizing performance metrics, fixing overfitting with data augmentation, comparing regression models, and utilizing transfer learning with ResNet-50 and etc.
 
-### this is highlighted notebook model from my projects in kaggle:
+### "This is highlighted notebook model from my projects in kaggle:"
 
 ## Project 1: Optimizing Performance Metrics
 
@@ -14,8 +14,7 @@ Overfitting is a common problem in machine learning models. This project demonst
 
 https://www.kaggle.com/code/kritsadakruapat/cnnchangedatacolor-notjustred
 
-### All table (Model view) 
-![model](MasterPowerBI/ModelView.png)
+![image](0image/colorchange.png)
 
 ## Project 3: Comparing Regression Models + Exploratory Data Analysis(EDA)
 
