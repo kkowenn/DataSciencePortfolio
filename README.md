@@ -6,7 +6,7 @@ Welcome to my Data Science portfolio! This repository showcases my work in optim
 
 ## Project 1: Optimizing Performance Metrics
 
-In this project, I focused on optimizing the values of performance metrics for a given model. The goal was to find the best possible combination of hyperparameters to achieve the highest performance.
+In this project, I focused on optimizing the values of performance metrics for a given model. The goal was to find the best possible combination of hyperparameters to achieve the highest performance. (before tuning vs after tuning)
 
 ## Project 2: Data Augmentation to Fix Overfitting
 
