@@ -2,7 +2,7 @@
 
 Welcome to my Data Science portfolio! This repository showcases my work in optimizing performance metrics, fixing overfitting with data augmentation, comparing regression models, and utilizing transfer learning with ResNet-50 and etc.
 
-### "This is highlighted notebook model from my projects in kaggle:"
+### "This is highlighted notebook models from my projects in kaggle:"
 
 https://www.kaggle.com/kritsadakruapat
 
