@@ -33,3 +33,11 @@ Transfer learning is a powerful technique in deep learning. This project showcas
 https://www.kaggle.com/code/kritsadakruapat/simpletransferlearning-resnet50-unsatisfied
 
 ![image](0image/bottun.png)
+
+## Project 5 : RNN model (Vanilla RNN, LSTM, GRU, and Bidirectional RNN) 
+
+The text describes building a text classification model. They cleaned data, converted text to numbers, and tried different model types (RNN) to see which performed best.
+
+https://www.kaggle.com/code/kritsadakruapat/rnnmodelcomparison?scriptVersionId=182686891
+
+![image](0image/bottun.png)
