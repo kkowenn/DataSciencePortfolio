@@ -40,4 +40,4 @@ The text describes building a text classification model. They cleaned data, conv
 
 https://www.kaggle.com/code/kritsadakruapat/rnnmodelcomparison?scriptVersionId=182686891
 
-![image](0image/bottun.png)
+![image](0image/121.png)
