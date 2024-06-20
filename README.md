@@ -2,9 +2,6 @@
 
 Welcome to my Data Science portfolio! This repository showcases my work in optimizing performance metrics, fixing overfitting with data augmentation, comparing regression models, and utilizing transfer learning with ResNet-50 and etc.
 
-## acknowledgment & Udemy Certificate:
-![image](0image/1.png)
-
 ### "This is highlighted notebook models from my projects in kaggle:"
 
 https://www.kaggle.com/kritsadakruapat
@@ -42,6 +39,11 @@ https://www.kaggle.com/code/kritsadakruapat/simpletransferlearning-resnet50-unsa
 The text describes building a text classification model. They cleaned data, converted text to numbers, and tried different model types (RNN) to see which performed best.
 
 https://www.kaggle.com/code/kritsadakruapat/rnnmodelcomparison?scriptVersionId=182686891
+
+
+## acknowledgment & Udemy Certificate:
+![image](0image/1.png)
+
 
 ![image](0image/1212.png)
 
