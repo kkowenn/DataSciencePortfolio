@@ -2,6 +2,9 @@
 
 Welcome to my Data Science portfolio! This repository showcases my work in optimizing performance metrics, fixing overfitting with data augmentation, comparing regression models, and utilizing transfer learning with ResNet-50 and etc.
 
+## acknowledgment & Udemy Certificate:
+![image](0image/1.png)
+
 ### "This is highlighted notebook models from my projects in kaggle:"
 
 https://www.kaggle.com/kritsadakruapat
@@ -41,3 +44,5 @@ The text describes building a text classification model. They cleaned data, conv
 https://www.kaggle.com/code/kritsadakruapat/rnnmodelcomparison?scriptVersionId=182686891
 
 ![image](0image/1212.png)
+
+
