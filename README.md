@@ -43,6 +43,6 @@ https://www.kaggle.com/code/kritsadakruapat/rnnmodelcomparison?scriptVersionId=1
 ![image](0image/1212.png)
 
 ## acknowledgment & Udemy Certificate:
-thank you so much to Andrei Neagoie and Daniel Bourke, it's best course ever!!
+thank you so much, Andrei Neagoie and Daniel Bourke. It's the best course ever!!
 ![image](0image/1.png)
 
