@@ -2,13 +2,20 @@
 
 Welcome to my Data Science portfolio! This repository showcases my work in optimizing performance metrics, fixing overfitting with data augmentation, comparing regression models, and utilizing transfer learning with ResNet-50 and etc.
 
-### "This is highlighted notebook models from my projects in kaggle:"
+# "This is highlighted notebook models from all my projects in kaggle:"
 
 https://www.kaggle.com/kritsadakruapat
+
+
+## Project 0: Machine learning without any library:
+implementing and understanding various machine learning algorithms using Python.
+https://github.com/kkowenn/ManualMachineLearning
+
 
 ## Project 1: Optimizing Performance Metrics
 
 In this project, I focused on optimizing the values of performance metrics for a given model. The goal was to find the best possible combination of hyperparameters to achieve the highest performance. (before tuning vs after tuning)
+https://github.com/kkowenn/DataSciencePortfilo/tree/main/Schooltask(WineQuality)
 
 ## Project 2: Data Augmentation to Fix Overfitting
 
@@ -41,6 +48,10 @@ The text describes building a text classification model. They cleaned data, conv
 https://www.kaggle.com/code/kritsadakruapat/rnnmodelcomparison?scriptVersionId=182686891
 
 ![image](0image/1212.png)
+
+## project 6 : Applying model on web:
+This project is a web application that allows users to draw digits on a canvas and classify them using a pre-trained convolutional neural network (CNN) model. The model is trained on the MNIST dataset (not 100 % accuracy).
+https://github.com/kkowenn/DigitRecognitionWeb
 
 ## acknowledgment & Udemy Certificate:
 thank you so much, Andrei Neagoie and Daniel Bourke. It's the best course ever!!
