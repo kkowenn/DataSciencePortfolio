@@ -50,7 +50,7 @@ https://www.kaggle.com/code/kritsadakruapat/rnnmodelcomparison?scriptVersionId=1
 
 ![image](0image/1212.png)
 
-## project 6 : Applying model on web:
+## Project 6 : Applying model on web
 This project is a web application that allows users to draw digits on a canvas and classify them using a pre-trained convolutional neural network (CNN) model. The model is trained on the MNIST dataset (not 100 % accuracy).
 https://github.com/kkowenn/DigitRecognitionWeb
 
