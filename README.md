@@ -34,12 +34,12 @@ https://www.kaggle.com/code/kritsadakruapat/comparing-regression-models
 
 ![image](0image/regression.png)
 
-## Project 4: Transfer Learning with ResNet-50
+## Project 4: Transfer Learning with ResNet-50 & MobileNetV2
 
 Transfer learning is a powerful technique in deep learning. This project showcases how ResNet-50, a pre-trained convolutional neural network, can be used for transfer learning to achieve high performance on a custom dataset.
 
 https://www.kaggle.com/code/kritsadakruapat/simpletransferlearning-resnet50-unsatisfied
-
+https://www.kaggle.com/code/kritsadakruapat/mobilenetv2-image-classification
 ![image](0image/bottun.png)
 
 ## Project 5 : RNN model (Vanilla RNN, LSTM, GRU, and Bidirectional RNN) 
