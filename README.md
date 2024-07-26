@@ -2,7 +2,7 @@
 
 Welcome to my Data Science portfolio! This repository showcases my work in optimizing performance metrics, fixing overfitting with data augmentation, comparing regression models, and utilizing transfer learning with ResNet-50 and etc.
 
-# All machine learning notebook & MLOps:
+# All machine learning notebook & MLOps Projects:
 
 ### 🦆 Kaggle:
 https://www.kaggle.com/kritsadakruapat
