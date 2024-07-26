@@ -13,7 +13,7 @@ https://dagshub.com/kkowenn
 ### 🤗 huggingFace:
 https://huggingface.co/kritsadaK
 
-# Project:
+# Highlighted Project:
 **Project 0:** Machine learning without any library:
 
 https://github.com/kkowenn/ManualMachineLearning
