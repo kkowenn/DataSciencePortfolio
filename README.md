@@ -33,6 +33,7 @@ https://www.kaggle.com/code/kritsadakruapat/comparing-regression-models
 **Project 4:** Transfer Learning with ResNet-50 & MobileNetV2 and etc.
 
 https://www.kaggle.com/code/kritsadakruapat/simpletransferlearning-resnet50-unsatisfied
+
 https://www.kaggle.com/code/kritsadakruapat/mobilenetv2-image-classification
 
 **Project 5:** RNN model (Vanilla RNN, LSTM, GRU, and Bidirectional RNN) converted text to numbers, and tried different model types (RNN) to see which performed best.
@@ -42,8 +43,3 @@ https://www.kaggle.com/code/kritsadakruapat/rnnmodelcomparison?scriptVersionId=1
 **Project 6:** Applying model on web, draw digits on a canvas and classify them using a pre-trained convolutional neural network (CNN) model by using the MNIST dataset.
 
 https://github.com/kkowenn/DigitRecognitionWeb
-
-## acknowledgment & Udemy Certificate:
-thank you so much, Andrei Neagoie and Daniel Bourke. It's the best course ever!!
-![image](0image/1.png)
-
