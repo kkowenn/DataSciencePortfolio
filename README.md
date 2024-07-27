@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-Welcome to my Data Science portfolio! This repository showcases my work in optimizing performance metrics, fixing overfitting with data augmentation, comparing regression models, and utilizing transfer learning with ResNet-50 and etc.
+Welcome to my Data Science portfolio!
 
 # All machine learning notebook & MLOps Projects:
 
