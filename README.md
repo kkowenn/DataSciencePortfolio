@@ -10,10 +10,11 @@ https://www.kaggle.com/kritsadakruapat
 ### 🐶 DagsHub:
 https://dagshub.com/kkowenn
 
-### 🤗 huggingFace:
+### 🤗 HuggingFace:
 https://huggingface.co/kritsadaK
 
-# Highlighted Project:
+# Highlighted deep_learning and Machine_learning Model Projects:
+
 **Project 0:** Machine learning without any library:
 
 https://github.com/kkowenn/ManualMachineLearning
@@ -43,3 +44,33 @@ https://www.kaggle.com/code/kritsadakruapat/rnnmodelcomparison?scriptVersionId=1
 **Project 6:** Applying model on web, draw digits on a canvas and classify them using a pre-trained convolutional neural network (CNN) model by using the MNIST dataset.
 
 https://github.com/kkowenn/DigitRecognitionWeb
+
+# MLops Projects:
+
+**Project 1:**  machine learning model -> Mlflow -> Amazon Web Services:
+
+https://dagshub.com/dashboard
+
+# Computer Vision 3D-pose Projects:
+
+**Project 1:** using 3D pose to detect arm to overlay tattoo filter by webcam
+
+https://github.com/kkowenn/ThaiTattooArmFilterBYOpenPose
+
+host app in hugging_face space 
+
+https://huggingface.co/spaces/kritsadaK/TattooPoseOverlay
+
+
+# Big Data analysis Projects:
+
+**Project 1:** Basic statistic, EDA and visualization by using scala Projects:
+
+https://github.com/kkowenn/scala_ploting
+
+#  ETC:
+
+**Web scraping with python Project** 
+
+https://github.com/kkowenn/MyScrapingProject
+
