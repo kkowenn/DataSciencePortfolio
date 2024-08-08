@@ -53,11 +53,7 @@ https://github.com/kkowenn/DigitRecognitionWeb
 
 # Computer Vision 3D-pose Projects:
 
-**Project 1:** using 3D pose to detect arm to overlay tattoo filter by webcam
-
-https://github.com/kkowenn/ThaiTattooArmFilterBYOpenPose
-
-host app in hugging_face space 
+**Project 1:** using 3D pose to detect arm to overlay tattoo filter:
 
 https://huggingface.co/spaces/kritsadaK/TattooPoseOverlay
 
