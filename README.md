@@ -49,7 +49,7 @@ https://github.com/kkowenn/DigitRecognitionWeb
 
 **Project 1:**  machine learning model -> Mlflow -> Amazon Web Services:
 
-https://dagshub.com/dashboard
+[https://dagshub.com/dashboard](https://dagshub.com/kkowenn/DeploymentOnAWSProject1.git)
 
 # Computer Vision 3D-pose Projects:
 
