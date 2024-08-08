@@ -62,7 +62,7 @@ host app in hugging_face space
 https://huggingface.co/spaces/kritsadaK/TattooPoseOverlay
 
 
-# Big Data analysis Projects:
+# Big Data Analysis Projects:
 
 **Project 1:** Basic statistic, EDA and visualization by using scala Projects:
 
@@ -70,7 +70,7 @@ https://github.com/kkowenn/scala_ploting
 
 #  ETC:
 
-**Web scraping with python Project** 
+**Web Scraping with Python Project** 
 
 https://github.com/kkowenn/MyScrapingProject
 
