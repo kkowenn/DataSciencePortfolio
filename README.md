@@ -51,9 +51,9 @@ https://github.com/kkowenn/DigitRecognitionWeb
 
 [https://dagshub.com/dashboard](https://dagshub.com/kkowenn/DeploymentOnAWSProject1.git)
 
-# Computer Vision 3D-pose Projects:
+# Computer Vision 2D-pose Projects:
 
-**Project 1:** using 3D pose to detect arm to overlay tattoo filter:
+**Project 1:** using 2D pose to detect arm to overlay tattoo filter:
 
 https://huggingface.co/spaces/kritsadaK/TattooPoseOverlay
 
