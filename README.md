@@ -51,6 +51,8 @@ https://github.com/kkowenn/DigitRecognitionWeb
 
 [https://dagshub.com/dashboard](https://dagshub.com/kkowenn/DeploymentOnAWSProject1.git)
 
+https://dagshub.com/kkowenn/DeploymentOnAWSProject1.mlflow/#/experiments/0?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D
+
 # Computer Vision 2D-pose Projects:
 
 **Project 1:** using 2D pose to detect arm to overlay tattoo filter:
