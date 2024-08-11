@@ -47,11 +47,20 @@ https://github.com/kkowenn/DigitRecognitionWeb
 
 # MLops Projects:
 
-**Project 1:**  machine learning model -> Mlflow -> Amazon Web Services:
+**Project 1:**  Deployment model on Amazon Bucket(s3):
+
+machine learning model -> Mlflow -> Amazon Web Services
 
 [https://dagshub.com/dashboard](https://dagshub.com/kkowenn/DeploymentOnAWSProject1.git)
 
 https://dagshub.com/kkowenn/DeploymentOnAWSProject1.mlflow/#/experiments/0?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D
+
+
+**Project 2:** End-to-End Dogecoin Minutely Prediction:
+
+Data Collection (API binance) & Preprocessing -> Model Training & Experiment Tracking (MLFlow) -> Version Control & Pipeline Management (DVC) 
+
+https://dagshub.com/kkowenn/End-to-endDogecoinMinutelyPrediction
 
 # Computer Vision:
 
