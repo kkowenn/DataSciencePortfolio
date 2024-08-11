@@ -75,7 +75,7 @@ https://huggingface.co/spaces/kritsadaK/TattooPoseOverlay
 
 **Project 1:** Basic statistic, EDA and visualization by using scala Projects:
 
-[https://github.com/kkowenn/scala_ploting](https://github.com/kkowenn/Basic_Scala_ForBigData/tree/main/scala_visualization)
+https://github.com/kkowenn/Basic_Scala_ForBigData/tree/main/scala_visualization
 
 #  ETC:
 
