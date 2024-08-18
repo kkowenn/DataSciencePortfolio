@@ -64,7 +64,7 @@ Data Collection (API binance) & Preprocessing -> Model Training & Experiment Tra
 
 https://dagshub.com/kkowenn/End-to-endDogecoinMinutelyPrediction
 
-**Project 3:** : DAG fetch and process weather data for Bangkok by using Docker & AirFlow (DAG)  
+**Project 3:** : ETL: DAG fetch and process weather data for Bangkok by using Docker & AirFlow (DAG)  
 
 Trigger the DAG -> fetch_data_task -> process_data_task -> upload_data_task
 
