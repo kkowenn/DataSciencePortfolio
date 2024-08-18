@@ -47,11 +47,11 @@ https://www.kaggle.com/code/kritsadakruapat/rnnmodelcomparison?scriptVersionId=1
 
 https://github.com/kkowenn/DigitRecognitionWeb
 
-# MLops Projects:
+# Data Engineering Projects:
 
 **Project 1:**  Deployment model on Amazon Bucket(s3):
 
-machine learning model -> Mlflow -> Amazon Web Services
+Machine learning model -> Mlflow -> Amazon Web Services
 
 [https://dagshub.com/dashboard](https://dagshub.com/kkowenn/DeploymentOnAWSProject1.git)
 
@@ -63,6 +63,13 @@ https://dagshub.com/kkowenn/DeploymentOnAWSProject1.mlflow/#/experiments/0?searc
 Data Collection (API binance) & Preprocessing -> Model Training & Experiment Tracking (MLFlow) -> Version Control & Pipeline Management (DVC) 
 
 https://dagshub.com/kkowenn/End-to-endDogecoinMinutelyPrediction
+
+**Project 3:** : DAG fetch and process weather data for Bangkok by using Docker & AirFlow (DAG)  
+
+Trigger the DAG -> fetch_data_task >> process_data_task >> upload_data_task
+
+https://dagshub.com/kkowenn/AirFlowProject1
+
 
 # Computer Vision:
 
