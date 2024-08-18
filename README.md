@@ -66,7 +66,7 @@ https://dagshub.com/kkowenn/End-to-endDogecoinMinutelyPrediction
 
 **Project 3:** : DAG fetch and process weather data for Bangkok by using Docker & AirFlow (DAG)  
 
-Trigger the DAG -> fetch_data_task >> process_data_task >> upload_data_task
+Trigger the DAG -> fetch_data_task -> process_data_task -> upload_data_task
 
 https://dagshub.com/kkowenn/AirFlowProject1
 
