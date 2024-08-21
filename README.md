@@ -78,13 +78,13 @@ https://github.com/kkowenn/ComputerVisionProject
 
 # Big Data Analysis Projects:
 
-**Project 1:** Basic statistic, EDA and visualization by using scala Projects:
+**Project 1:** scala projects:
 
-https://github.com/kkowenn/Basic_Scala_ForBigData/tree/main/scala_visualization
+[https://github.com/kkowenn/Basic_Scala_ForBigData/tree/main/scala_visualization](https://github.com/kkowenn/Basic_Scala_ForBigData/tree/main)
 
 #  ETC:
 
-**Web Scraping with Python Project** 
+**Web Scraping with Python Project:** 
 
 https://github.com/kkowenn/MyScrapingProject
 
