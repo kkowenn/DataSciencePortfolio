@@ -71,6 +71,10 @@ https://dagshub.com/kkowenn/End-to-endDogecoinMinutelyPrediction
 
 https://huggingface.co/spaces/kritsadaK/TattooPoseOverlay
 
+**Project 2:** using mediapipe 3D pose to detect arm to overlay tattoo filter:
+
+https://github.com/kkowenn/ComputerVisionProject
+
 
 # Big Data Analysis Projects:
 
