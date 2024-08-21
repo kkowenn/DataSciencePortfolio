@@ -88,7 +88,7 @@ https://github.com/kkowenn/ComputerVisionProject
 
 **Project 1:** scala projects:
 
-[https://github.com/kkowenn/Basic_Scala_ForBigData/tree/main](https://github.com/kkowenn/Basic_Scala_ForBigData/tree/main)
+[https://github.com/kkowenn/Basic_Scala_ForBigData](https://github.com/kkowenn/Basic_Scala_ForBigData/tree/main)
 
 #  ETC:
 
