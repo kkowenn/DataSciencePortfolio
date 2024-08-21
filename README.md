@@ -65,6 +65,11 @@ Data Collection (API binance) & Preprocessing -> Model Training & Experiment Tra
 https://dagshub.com/kkowenn/End-to-endDogecoinMinutelyPrediction
 
 
+**project 3:** airflow & dockers 
+
+https://dagshub.com/kkowenn/AirFlowProject1
+
+
 # Computer Vision:
 
 **Project 1:** using 2D pose to detect arm to overlay tattoo filter:
