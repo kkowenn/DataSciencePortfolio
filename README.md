@@ -73,8 +73,8 @@ https://dagshub.com/kkowenn/OpendatathaiMLflow
 https://huggingface.co/spaces/kritsadaK/ThailandPM10PredictionApp2022
 
 
-# Computer Vision:
-
+# Computer Vision Projects:
+ 
 **Project 1:** using 2D pose to detect arm to overlay tattoo filter:
 
 https://huggingface.co/spaces/kritsadaK/TattooPoseOverlay
