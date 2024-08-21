@@ -47,7 +47,7 @@ https://www.kaggle.com/code/kritsadakruapat/rnnmodelcomparison?scriptVersionId=1
 
 https://github.com/kkowenn/DigitRecognitionWeb
 
-# Data Engineering Projects:
+# MLflow Projects:
 
 **Project 1:**  Deployment model on Amazon Bucket(s3):
 
