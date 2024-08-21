@@ -64,6 +64,11 @@ Data Collection (API binance) & Preprocessing -> Model Training & Experiment Tra
 
 https://dagshub.com/kkowenn/End-to-endDogecoinMinutelyPrediction
 
+**Project 3:** Thailand PM10 Prediction App (stream lit track Log experiments by mlflow )
+
+url(Open Government Data of Thailand) -> mini ETL -> basic ARIMA model -> streamlit display & choose location to predict-> Experiment Tracking -> Version Control & Pipeline Management (DVC)
+
+https://dagshub.com/kkowenn/OpendatathaiMLflow
 
 # Computer Vision:
 
