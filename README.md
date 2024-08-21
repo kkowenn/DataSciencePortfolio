@@ -70,6 +70,9 @@ url(Open Government Data of Thailand) -> mini ETL -> basic ARIMA model -> stream
 
 https://dagshub.com/kkowenn/OpendatathaiMLflow
 
+https://huggingface.co/spaces/kritsadaK/ThailandPM10PredictionApp2022
+
+
 # Computer Vision:
 
 **Project 1:** using 2D pose to detect arm to overlay tattoo filter:
