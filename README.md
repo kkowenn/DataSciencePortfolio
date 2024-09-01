@@ -15,11 +15,17 @@ https://dagshub.com/kkowenn
 ### 🤗 HuggingFace:
 https://huggingface.co/kritsadaK
 
-# Highlighted deep_learning and Machine_learning Model Projects:
+# Machine learning Projects:
 
-**Project 0:** Machine learning without any library:
+**Project 1:** Machine learning without any library:
 
 https://github.com/kkowenn/ManualMachineLearning
+
+**Project 2:** the Feature Importance score from a decision tree model. 
+
+https://github.com/kkowenn/FastworkAnalysisProject
+
+# Deep learning Projects:
 
 **Project 1:** Optimizing Performance Metrics to find the best possible combination of hyperparameters to achieve the highest performance. (before tuning vs after tuning)
 
