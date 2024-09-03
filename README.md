@@ -21,7 +21,7 @@ https://huggingface.co/kritsadaK
 
 https://github.com/kkowenn/ManualMachineLearning
 
-**Project 2:** the Feature Importance score from a decision tree model. 
+**Project 2:** The Feature Importance score from a decision tree model. 
 
 https://github.com/kkowenn/FastworkAnalysisProject
 
