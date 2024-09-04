@@ -81,7 +81,7 @@ https://huggingface.co/spaces/kritsadaK/ThailandPM10PredictionApp2022
 
 # Computer Vision Projects:
  
-**Project 1:** using 2D pose to detect arm to overlay tattoo filter:
+**Project 1:** using 3D pose to detect arm to overlay tattoo filter:
 
 https://huggingface.co/spaces/kritsadaK/TattooPoseOverlay
 
