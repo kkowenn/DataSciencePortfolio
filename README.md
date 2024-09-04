@@ -85,8 +85,6 @@ https://huggingface.co/spaces/kritsadaK/ThailandPM10PredictionApp2022
 
 https://huggingface.co/spaces/kritsadaK/TattooPoseOverlay
 
-**Project 2:** using mediapipe 3D pose to detect arm to overlay tattoo filter:
-
 https://github.com/kkowenn/ComputerVisionProject
 
 
