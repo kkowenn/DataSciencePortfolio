@@ -29,7 +29,7 @@ https://github.com/kkowenn/FastworkAnalysisProject
 
 **Project 1:** Optimizing Performance Metrics to find the best possible combination of hyperparameters to achieve the highest performance. (before tuning vs after tuning)
 
-https://github.com/kkowenn/DataSciencePortfilo/tree/main/Schooltask(WineQuality)
+https://github.com/kkowenn/DataSciencePortfilo/blob/main/Schooltask(WineQuality)/Wine_Quality.ipynb
 
 **Project 2:** Data Augmentation to Fix Overfitting
 
