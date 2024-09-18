@@ -60,6 +60,19 @@ https://www.kaggle.com/code/kritsadakruapat/rnnmodelcomparison?scriptVersionId=1
 
 https://github.com/kkowenn/DigitRecognitionWeb
 
+# Computer Vision Projects:
+ 
+**Project 1:** using 3D pose to detect arm to overlay tattoo filter:
+
+https://huggingface.co/spaces/kritsadaK/TattooPoseOverlay
+
+https://github.com/kkowenn/ComputerVisionProject
+
+**Project 2:** simple yolov (object detection)
+
+https://github.com/kkowenn/SimpleYolov
+
+
 # MLflow Projects:
 
 **Project 1:**  Deployment model on Amazon Bucket(s3):
@@ -85,18 +98,6 @@ https://dagshub.com/kkowenn/OpendatathaiMLflow
 
 https://huggingface.co/spaces/kritsadaK/ThailandPM10PredictionApp2022
 
-
-# Computer Vision Projects:
- 
-**Project 1:** using 3D pose to detect arm to overlay tattoo filter:
-
-https://huggingface.co/spaces/kritsadaK/TattooPoseOverlay
-
-https://github.com/kkowenn/ComputerVisionProject
-
-**Project 2:** simple yolov (object detection)
-
-https://github.com/kkowenn/SimpleYolov
 
 # Big Data Analysis Projects:
 
