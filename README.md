@@ -94,6 +94,9 @@ https://huggingface.co/spaces/kritsadaK/TattooPoseOverlay
 
 https://github.com/kkowenn/ComputerVisionProject
 
+**Project 2:** simple yolov (object detection)
+
+https://github.com/kkowenn/SimpleYolov
 
 # Big Data Analysis Projects:
 
