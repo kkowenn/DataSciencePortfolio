@@ -21,10 +21,14 @@ https://huggingface.co/kritsadaK
 
 https://github.com/kkowenn/ManualMachineLearning
 
-**Project 2:** The Feature Importance score from a decision tree model.
+**Project 2:** The Feature Importance score from a decision tree model:
 
-https://github.com/yamerooo123/Political-Fake-News-Detector-NLP
 https://github.com/kkowenn/FastworkAnalysisProject
+
+**Project 3:** Manual algorithm cosin similarity:
+
+https://www.kaggle.com/code/kritsadakruapat/cosin
+
 
 # Deep learning Projects:
 
@@ -32,7 +36,9 @@ https://github.com/kkowenn/FastworkAnalysisProject
 
 https://github.com/kkowenn/DataSciencePortfilo/blob/main/Schooltask(WineQuality)/Wine_Quality.ipynb
 
-**Project 2:** Data Augmentation to Fix Overfitting
+**Project 2:** Data Augmentation to Fix Overfitting (nlp and computer vision)
+
+https://github.com/yamerooo123/Political-Fake-News-Detector-NLP
 
 https://www.kaggle.com/code/kritsadakruapat/cnnchangedatacolor-notjustred
 
