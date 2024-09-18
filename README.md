@@ -99,15 +99,12 @@ https://dagshub.com/kkowenn/OpendatathaiMLflow
 https://huggingface.co/spaces/kritsadaK/ThailandPM10PredictionApp2022
 
 
-# Big Data Analysis Projects:
-
-**Project 1:** scala projects:
-
-[https://github.com/kkowenn/Basic_Scala_ForBigData](https://github.com/kkowenn/Basic_Scala_ForBigData/tree/main)
-
 #  ETC:
 
 **Web Scraping with Python Project:** 
 
 https://github.com/kkowenn/MyScrapingProject
 
+**Big data analysis:** scala projects:
+
+[https://github.com/kkowenn/Basic_Scala_ForBigData](https://github.com/kkowenn/Basic_Scala_ForBigData/tree/main)
