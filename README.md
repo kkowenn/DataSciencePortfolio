@@ -72,6 +72,9 @@ https://github.com/kkowenn/ComputerVisionProject
 
 https://github.com/kkowenn/SimpleYolov
 
+fall detection capture when detect fall
+
+https://github.com/kkowenn/Fall-Detection
 
 # MLflow Projects:
 
