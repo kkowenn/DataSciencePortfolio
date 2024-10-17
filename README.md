@@ -72,7 +72,7 @@ https://github.com/kkowenn/ComputerVisionProject
 
 https://github.com/kkowenn/SimpleYolov
 
-fall detection capture when detect fall
+**Project 2:** fall detection capture when detect fall wiht canny edge detection
 
 https://github.com/kkowenn/Fall-Detection
 
