@@ -53,9 +53,11 @@ https://www.kaggle.com/code/kritsadakruapat/rnnmodelcomparison?scriptVersionId=1
 
 # Computer Vision Projects:
 
-**Project 1:** Data Augmentation to Fix Overfitting (computer vision)
+**Project 1:** Data Augmentation to Fix Overfitting and improve model:
 
-https://github.com/yamerooo123/Political-Fake-News-Detector-NLP
+https://www.kaggle.com/code/kritsadakruapat/cnnchangedatacolor-notjustred
+
+https://github.com/kkowenn/AugmentationForDlibModel
  
 **Project 2:** using 3D pose to detect arm to overlay tattoo filter:
 
@@ -70,6 +72,7 @@ https://github.com/kkowenn/SimpleYolov
 **Project 4:** fall detection capture when detect fall wiht canny edge detection
 
 https://github.com/kkowenn/Fall-Detection
+
 
 # Natural Language Processing Projects:
 
