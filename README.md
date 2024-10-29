@@ -37,19 +37,19 @@ https://github.com/kkowenn/DataSciencePortfilo/blob/main/Schooltask(WineQuality)
 
 https://www.kaggle.com/code/kritsadakruapat/comparing-regression-models
 
-**Project 6:** Transfer Learning with ResNet-50 & MobileNetV2 and etc.
+**Project 6:** Applying model on web, draw digits on a canvas and classify them using a pre-trained convolutional neural network (CNN) model by using the MNIST dataset.
+
+https://github.com/kkowenn/DigitRecognitionWeb
+
+**Project 7:** Transfer Learning with ResNet-50 & MobileNetV2 and etc.
 
 https://www.kaggle.com/code/kritsadakruapat/simpletransferlearning-resnet50-unsatisfied
 
 https://www.kaggle.com/code/kritsadakruapat/mobilenetv2-image-classification
 
-**Project 7:** RNN model (Vanilla RNN, LSTM, GRU, and Bidirectional RNN) converted text to numbers, and tried different model types (RNN) to see which performed best.
+**Project 8:** RNN model (Vanilla RNN, LSTM, GRU, and Bidirectional RNN) converted text to numbers, and tried different model types (RNN) to see which performed best.
 
 https://www.kaggle.com/code/kritsadakruapat/rnnmodelcomparison?scriptVersionId=182686891
-
-**Project 8:** Applying model on web, draw digits on a canvas and classify them using a pre-trained convolutional neural network (CNN) model by using the MNIST dataset.
-
-https://github.com/kkowenn/DigitRecognitionWeb
 
 # Computer Vision Projects:
 
