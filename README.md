@@ -119,7 +119,7 @@ https://huggingface.co/spaces/kritsadaK/ThailandPM10PredictionApp2022
 
 **Hadoop Projects:**
 
-[https://github.com/kkowenn/Simple-Hadoop-Recommendation](https://github.com/kkowenn/Simple-Hadoop-Recommendation/tree/main)
+[https://github.com/kkowenn/Simple-Hadoop](https://github.com/kkowenn/Simple-Hadoop)
 #  ETC:
 
 **Web Scraping with Python Project:** 
