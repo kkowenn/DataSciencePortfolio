@@ -27,7 +27,7 @@ https://github.com/kkowenn/FastworkAnalysisProject
 
 **Project 3:** Manual algorithm cosin similarity:
 
-https://www.kaggle.com/code/kritsadakruapat/cosin
+[https://www.kaggle.com/code/kritsadakruapat/cosin](https://www.kaggle.com/code/kritsadakruapat/cosine)
 
 **Project 4:** Optimizing Performance Metrics to find the best possible combination of hyperparameters to achieve the highest performance. (before tuning vs after tuning)
 
