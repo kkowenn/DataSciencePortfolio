@@ -15,7 +15,7 @@ https://dagshub.com/kkowenn
 ### 🤗 HuggingFace:
 https://huggingface.co/kritsadaK
 
-# Machine learning Projects:
+# Machine learning and Deep learning Projects:
 
 **Project 1:** Machine learning without any library:
 
@@ -29,52 +29,58 @@ https://github.com/kkowenn/FastworkAnalysisProject
 
 https://www.kaggle.com/code/kritsadakruapat/cosin
 
-
-# Deep learning Projects:
-
-**Project 1:** Optimizing Performance Metrics to find the best possible combination of hyperparameters to achieve the highest performance. (before tuning vs after tuning)
+**Project 4:** Optimizing Performance Metrics to find the best possible combination of hyperparameters to achieve the highest performance. (before tuning vs after tuning)
 
 https://github.com/kkowenn/DataSciencePortfilo/blob/main/Schooltask(WineQuality)/Wine_Quality.ipynb
 
-**Project 2:** Data Augmentation to Fix Overfitting (nlp and computer vision)
-
-https://github.com/yamerooo123/Political-Fake-News-Detector-NLP
-
-https://www.kaggle.com/code/kritsadakruapat/cnnchangedatacolor-notjustred
-
-**Project 3:** Comparing Regression Models + Exploratory Data Analysis(EDA)
+**Project 5:** Comparing Regression Models + Exploratory Data Analysis(EDA)
 
 https://www.kaggle.com/code/kritsadakruapat/comparing-regression-models
 
-**Project 4:** Transfer Learning with ResNet-50 & MobileNetV2 and etc.
+**Project 6:** Transfer Learning with ResNet-50 & MobileNetV2 and etc.
 
 https://www.kaggle.com/code/kritsadakruapat/simpletransferlearning-resnet50-unsatisfied
 
 https://www.kaggle.com/code/kritsadakruapat/mobilenetv2-image-classification
 
-**Project 5:** RNN model (Vanilla RNN, LSTM, GRU, and Bidirectional RNN) converted text to numbers, and tried different model types (RNN) to see which performed best.
+**Project 7:** RNN model (Vanilla RNN, LSTM, GRU, and Bidirectional RNN) converted text to numbers, and tried different model types (RNN) to see which performed best.
 
 https://www.kaggle.com/code/kritsadakruapat/rnnmodelcomparison?scriptVersionId=182686891
 
-**Project 6:** Applying model on web, draw digits on a canvas and classify them using a pre-trained convolutional neural network (CNN) model by using the MNIST dataset.
+**Project 8:** Applying model on web, draw digits on a canvas and classify them using a pre-trained convolutional neural network (CNN) model by using the MNIST dataset.
 
 https://github.com/kkowenn/DigitRecognitionWeb
 
 # Computer Vision Projects:
+
+**Project 1:** Data Augmentation to Fix Overfitting (computer vision)
+
+https://github.com/yamerooo123/Political-Fake-News-Detector-NLP
  
-**Project 1:** using 3D pose to detect arm to overlay tattoo filter:
+**Project 2:** using 3D pose to detect arm to overlay tattoo filter:
 
 https://huggingface.co/spaces/kritsadaK/TattooPoseOverlay
 
 https://github.com/kkowenn/ComputerVisionProject
 
-**Project 2:** simple yolov (object detection)
+**Project 3:** simple yolov (object detection)
 
 https://github.com/kkowenn/SimpleYolov
 
-**Project 2:** fall detection capture when detect fall wiht canny edge detection
+**Project 4:** fall detection capture when detect fall wiht canny edge detection
 
 https://github.com/kkowenn/Fall-Detection
+
+# Natural Language Processing
+
+**Project 1:** Data Augmentation to Fix Overfitting (nlp)
+
+https://github.com/kkowenn/Political-Fake-News-Detector-NLP.git
+
+**Project 2:** Thai word recommender system by using cosine similarty
+
+https://huggingface.co/spaces/kritsadaK/ThaiSentenceSimilarityApp
+
 
 # MLflow Projects:
 
