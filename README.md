@@ -117,7 +117,7 @@ https://huggingface.co/spaces/kritsadaK/ThailandPM10PredictionApp2022
 
 [https://github.com/kkowenn/Basic_Scala_ForBigData](https://github.com/kkowenn/Basic_Scala_ForBigData/tree/main)
 
-**Hadoop Projects:**
+**Hadoop Projects:** A Hadoop MapReduce application for efficiently counting word occurrences in a text file, comprising a driver, a mapper, and a reducer
 
 [https://github.com/kkowenn/Simple-Hadoop](https://github.com/kkowenn/Simple-Hadoop)
 #  ETC:
