@@ -33,7 +33,7 @@ https://github.com/kkowenn/FastworkAnalysisProject
 
 https://github.com/kkowenn/DataSciencePortfilo/blob/main/Schooltask(WineQuality)/Wine_Quality.ipynb
 
-**Project 5:** Comparing Regression Models + Exploratory Data Analysis(EDA)
+**Project 5:** Comparing Regression Models(Linear Regression model with Random Forest Regression, XGBoost Regression and Neural Network) + Exploratory Data Analysis(EDA)
 
 https://www.kaggle.com/code/kritsadakruapat/comparing-regression-models
 
