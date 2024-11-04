@@ -113,7 +113,7 @@ https://huggingface.co/spaces/kritsadaK/ThailandPM10PredictionApp2022
 
 # Big data analysis:
 
-**Scala Projects:**
+**Scala Projects:** Scala workspace designed for data analysis with a simple multi-root, Spark SQL and visualization, featuring sub-projects for SQL-based analysis, various plot examples, and including essential configurations 
 
 [https://github.com/kkowenn/Basic_Scala_ForBigData](https://github.com/kkowenn/Basic_Scala_ForBigData/tree/main)
 
