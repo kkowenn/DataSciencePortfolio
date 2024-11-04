@@ -69,7 +69,7 @@ https://github.com/kkowenn/ComputerVisionProject
 
 https://github.com/kkowenn/SimpleYolov
 
-**Project 4:** fall detection capture when detect fall wiht canny edge detection
+**Project 4:** fall detection capture when detect fall with canny edge detection and skeleton and remove the background 
 
 https://github.com/kkowenn/Fall-Detection
 
