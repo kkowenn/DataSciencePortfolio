@@ -120,6 +120,11 @@ https://huggingface.co/spaces/kritsadaK/ThailandPM10PredictionApp2022
 **Hadoop Projects:** A Hadoop MapReduce application for efficiently counting word occurrences in a text file, comprising a driver, a mapper, and a reducer
 
 [https://github.com/kkowenn/Simple-Hadoop](https://github.com/kkowenn/Simple-Hadoop)
+
+**R projects**:exploratory data analysis (EDA) for the dataset in R lanaguge. The main goal is to analyze factors influencing student performance by exploring data distributions, identifying patterns, and examining relationships among variables.
+
+[https://www.kaggle.com/code/kritsadakruapat/eda-forrlanguage](https://www.kaggle.com/code/kritsadakruapat/eda-forrlanguage)
+
 #  ETC:
 
 **Web Scraping with Python Project:** 
