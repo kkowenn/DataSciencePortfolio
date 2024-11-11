@@ -147,7 +147,12 @@ https://huggingface.co/spaces/kritsadaK/ThailandPM10PredictionApp2022
 
 [https://www.kaggle.com/code/kritsadakruapat/eda-forrlanguage](https://www.kaggle.com/code/kritsadakruapat/eda-forrlanguage)
 
+
 #  ETC:
+
+**Visualization tool** : 
+
+PowerBI: https://github.com/kkowenn/MasterPowerBI
 
 **Web Scraping with Python Project:** 
 
