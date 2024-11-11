@@ -68,7 +68,7 @@ https://www.kaggle.com/code/kritsadakruapat/cnnchangedatacolor-notjustred
 
 https://github.com/kkowenn/AugmentationForDlibModel
  
-**Project 2:** using 3D pose to detect arm to overlay tattoo filter:
+**Project 2:** using mediapose to detect arm to overlay tattoo filter:
 
 https://huggingface.co/spaces/kritsadaK/TattooPoseOverlay
 
