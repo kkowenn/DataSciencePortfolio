@@ -21,13 +21,14 @@ https://huggingface.co/kritsadaK
 
 https://github.com/kkowenn/ManualMachineLearning
 
-**Project 2:** The Feature Importance score from a decision tree model:
+**Project 2:** Manual algorithm cosin similarity:
+
+[https://www.kaggle.com/code/kritsadakruapat/cosin](https://www.kaggle.com/code/kritsadakruapat/cosine)
+
+**Project 3:** The Feature Importance score from a decision tree model:
 
 https://github.com/kkowenn/FastworkAnalysisProject
 
-**Project 3:** Manual algorithm cosin similarity:
-
-[https://www.kaggle.com/code/kritsadakruapat/cosin](https://www.kaggle.com/code/kritsadakruapat/cosine)
 
 **Project 4:** Optimizing Performance Metrics to find the best possible combination of hyperparameters to achieve the highest performance. (before tuning vs after tuning)
 
@@ -91,6 +92,13 @@ https://github.com/kkowenn/Political-Fake-News-Detector-NLP.git
 **Project 2:** Thai word recommender system by using cosine similarty
 
 https://huggingface.co/spaces/kritsadaK/ThaiSentenceSimilarityApp
+
+**Project3:** Quantized LoRA-Tuned Llama 
+
+https://github.com/kkowenn/DataSciencePortfolio/blob/main/QuantizedLoRATunedLlama/FlexTuneLLM.ipynb
+
+https://huggingface.co/kritsadaK/UltraInteract-Llama-FT
+
 
 
 # MLflow Projects:
