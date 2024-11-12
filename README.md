@@ -135,18 +135,21 @@ https://huggingface.co/spaces/kritsadaK/ThailandPM10PredictionApp2022
 
 # Big data analysis:
 
-**Scala Projects:** Scala workspace designed for data analysis with a simple multi-root, Spark SQL and visualization, featuring sub-projects for SQL-based analysis, various plot examples, and including essential configurations 
+**Scala Project:** Scala workspace designed for data analysis with a simple multi-root, Spark SQL and visualization, featuring sub-projects for SQL-based analysis, various plot examples, and including essential configurations 
 
 [https://github.com/kkowenn/Basic_Scala_ForBigData](https://github.com/kkowenn/Basic_Scala_ForBigData/tree/main)
 
-**Hadoop Projects:** A Hadoop MapReduce application for efficiently counting word occurrences in a text file, comprising a driver, a mapper, and a reducer
+**Hadoop Project:** A Hadoop MapReduce application for efficiently counting word occurrences in a text file, comprising a driver, a mapper, and a reducer
 
 [https://github.com/kkowenn/Simple-Hadoop](https://github.com/kkowenn/Simple-Hadoop)
 
-**R projects**:exploratory data analysis (EDA) for the dataset in R lanaguge. The main goal is to analyze factors influencing student performance by exploring data distributions, identifying patterns, and examining relationships among variables.
+**R Project**: Exploratory data analysis (EDA) for the dataset in R lanaguge. The main goal is to analyze factors influencing student performance by exploring data distributions, identifying patterns, and examining relationships among variables.
 
 [https://www.kaggle.com/code/kritsadakruapat/eda-forrlanguage](https://www.kaggle.com/code/kritsadakruapat/eda-forrlanguage)
 
+**SparkMLib Project:** Personalized Beer SVD Recommendations Using Spark MLlib 
+
+[https://www.kaggle.com/code/kritsadakruapat/svdbyusingsparkmllib](https://www.kaggle.com/code/kritsadakruapat/svdbyusingsparkmllib)
 
 #  ETC:
 
