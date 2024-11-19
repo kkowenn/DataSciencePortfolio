@@ -29,7 +29,6 @@ https://github.com/kkowenn/ManualMachineLearning
 
 https://github.com/kkowenn/FastworkAnalysisProject
 
-
 **Project 4:** Optimizing Performance Metrics to find the best possible combination of hyperparameters to achieve the highest performance. (before tuning vs after tuning)
 
 https://github.com/kkowenn/DataSciencePortfilo/blob/main/Schooltask(WineQuality)/Wine_Quality.ipynb
@@ -85,19 +84,27 @@ https://github.com/kkowenn/Fall-Detection
 
 # Natural Language Processing Projects:
 
-**Project 1:** Data Augmentation to Fix Overfitting (nlp)
+**Project 1:** fundamental Natural Language Processing
+
+https://github.com/kkowenn/basic_nlp
+
+**Project 2:** Data Augmentation to Fix Overfitting (nlp)
 
 https://github.com/kkowenn/Political-Fake-News-Detector-NLP.git
 
-**Project 2:** Thai word recommender system by using cosine similarty
+**Project 3:** Thai word recommender system by using cosine similarty
 
 https://huggingface.co/spaces/kritsadaK/ThaiSentenceSimilarityApp
 
-**Project3:** Quantized LoRA-Tuned Llama 
+**Project4:** Quantized LoRA-Tuned Llama 
 
 https://github.com/kkowenn/DataSciencePortfolio/blob/main/QuantizedLoRATunedLlama/FlexTuneLLM.ipynb
 
 https://huggingface.co/kritsadaK/UltraInteract-Llama-FT
+
+**Project5:** A LINE chatbot using Retrieval-Augmented Generation (RAG) with Pinecone and OpenAI GPT for intelligent, real-time responses by python
+
+https://github.com/kkowenn/LINE-RAG-AI-Assistant
 
 
 
