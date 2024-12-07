@@ -82,6 +82,7 @@ https://github.com/kkowenn/SimpleYolov
 https://github.com/kkowenn/Fall-Detection
 
 **Project 5:** gans-on-themnist-dataset
+
 https://www.kaggle.com/code/kritsadakruapat/gans-on-themnist-dataset
 
 
