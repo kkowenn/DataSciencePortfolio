@@ -168,6 +168,8 @@ https://huggingface.co/spaces/kritsadaK/ThailandPM10PredictionApp2022
 
 PowerBI: https://github.com/kkowenn/MasterPowerBI
 
+looker studio: https://lookerstudio.google.com/reporting/287f8ccf-c993-4185-bcdd-db1e06d7fc36
+
 **Web Scraping with Python Project:** 
 
 https://github.com/kkowenn/MyScrapingProject
