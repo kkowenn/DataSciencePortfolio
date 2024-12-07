@@ -59,6 +59,10 @@ https://www.kaggle.com/code/kritsadakruapat/mobilenetv2-image-classification
 
 https://www.kaggle.com/code/kritsadakruapat/rnnmodelcomparison?scriptVersionId=182686891
 
+**Project 10:** gans-on-themnist-dataset
+
+https://www.kaggle.com/code/kritsadakruapat/gans-on-themnist-dataset
+
 # Computer Vision Projects:
 
 **Project 1:** Data Augmentation to Fix Overfitting and improve model:
@@ -80,10 +84,6 @@ https://github.com/kkowenn/SimpleYolov
 **Project 4:** fall detection capture when detect fall with canny edge detection and skeleton and remove the background 
 
 https://github.com/kkowenn/Fall-Detection
-
-**Project 5:** gans-on-themnist-dataset
-
-https://www.kaggle.com/code/kritsadakruapat/gans-on-themnist-dataset
 
 
 # Natural Language Processing Projects:
