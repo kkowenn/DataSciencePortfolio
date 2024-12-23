@@ -59,9 +59,6 @@ https://www.kaggle.com/code/kritsadakruapat/mobilenetv2-image-classification
 
 https://www.kaggle.com/code/kritsadakruapat/rnnmodelcomparison?scriptVersionId=182686891
 
-**Project 10:** gans-on-themnist-dataset
-
-https://www.kaggle.com/code/kritsadakruapat/gans-on-themnist-dataset
 
 # Computer Vision Projects:
 
@@ -85,12 +82,24 @@ https://github.com/kkowenn/SimpleYolov
 
 https://github.com/kkowenn/Fall-Detection
 
+**Project 5:** AfterFall team, Senior Project , Real-Time Anti-spoofing (eye blinking detection) Attendance checking System, using Computer Vision to Robust face recognition model and save log on mongoDB and display by Attendance dashboard webcapp 
 
-# Natural Language Processing Projects:
+https://github.com/kkowenn/AfterFall-Face-Recognition-System
+
+
+# Natural Language Processing and Large language model Projects:
 
 **Project 1:** fundamental Natural Language Processing
 
 https://github.com/kkowenn/basic_nlp
+
+**Project 2:** simple topic modeling by using nmf
+
+https://www.kaggle.com/code/kritsadakruapat/simpletopicmodelingby-using-nmf
+
+**Project 2:** simple tweet sentiment classification
+
+https://www.kaggle.com/code/kritsadakruapat/simple-tweet-sentiment-classification
 
 **Project 2:** Data Augmentation to Fix Overfitting (nlp)
 
@@ -100,16 +109,19 @@ https://github.com/kkowenn/Political-Fake-News-Detector-NLP.git
 
 https://huggingface.co/spaces/kritsadaK/ThaiSentenceSimilarityApp
 
-**Project4:** Quantized LoRA-Tuned Llama 
+**Project 4:** Quantized LoRA-Tuned Llama 
 
 https://github.com/kkowenn/DataSciencePortfolio/blob/main/QuantizedLoRATunedLlama/FlexTuneLLM.ipynb
 
 https://huggingface.co/kritsadaK/UltraInteract-Llama-FT
 
-**Project5:** A LINE chatbot using Retrieval-Augmented Generation (RAG) with Pinecone and OpenAI GPT for intelligent, real-time responses by python
+**Project 5:** gans-on-themnist-dataset
+
+https://www.kaggle.com/code/kritsadakruapat/gans-on-themnist-dataset
+
+**Project 6:** A LINE chatbot using Retrieval-Augmented Generation (RAG) with Pinecone and OpenAI GPT for intelligent, real-time responses by python
 
 https://github.com/kkowenn/LINE-RAG-AI-Assistant
-
 
 
 # MLflow Projects:
@@ -173,3 +185,7 @@ looker studio: https://lookerstudio.google.com/reporting/287f8ccf-c993-4185-bcdd
 **Web Scraping with Python Project:** 
 
 https://github.com/kkowenn/MyScrapingProject
+
+**Orange data minning Project:** 
+
+https://github.com/kkowenn/data_minning_orange
