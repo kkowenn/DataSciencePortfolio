@@ -86,6 +86,9 @@ https://github.com/kkowenn/Fall-Detection
 
 https://github.com/kkowenn/AfterFall-Face-Recognition-System
 
+**Project 6:** gans-on-themnist-dataset
+
+https://www.kaggle.com/code/kritsadakruapat/gans-on-themnist-dataset
 
 # Natural Language Processing and Large language model Projects:
 
@@ -115,11 +118,7 @@ https://github.com/kkowenn/DataSciencePortfolio/blob/main/QuantizedLoRATunedLlam
 
 https://huggingface.co/kritsadaK/UltraInteract-Llama-FT
 
-**Project 5:** gans-on-themnist-dataset
-
-https://www.kaggle.com/code/kritsadakruapat/gans-on-themnist-dataset
-
-**Project 6:** A LINE chatbot using Retrieval-Augmented Generation (RAG) with Pinecone and OpenAI GPT for intelligent, real-time responses by python
+**Project 5:** A LINE chatbot using Retrieval-Augmented Generation (RAG) with Pinecone and OpenAI GPT for intelligent, real-time responses by python
 
 https://github.com/kkowenn/LINE-RAG-AI-Assistant
 
