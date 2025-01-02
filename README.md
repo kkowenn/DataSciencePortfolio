@@ -174,17 +174,12 @@ https://huggingface.co/spaces/kritsadaK/ThailandPM10PredictionApp2022
 [https://www.kaggle.com/code/kritsadakruapat/svdbyusingsparkmllib](https://www.kaggle.com/code/kritsadakruapat/svdbyusingsparkmllib)
 
 #  ETC:
-
-**Visualization tool** : 
+ 
 
 PowerBI: https://github.com/kkowenn/MasterPowerBI
 
 looker studio: https://lookerstudio.google.com/reporting/287f8ccf-c993-4185-bcdd-db1e06d7fc36
 
-**Web Scraping with Python Project:** 
+Web Scraping with Python Projects: https://github.com/kkowenn/MyScrapingProject
 
-https://github.com/kkowenn/MyScrapingProject
-
-**Orange data minning Project:** 
-
-https://github.com/kkowenn/data_minning_orange
+Orange data minning Project: https://github.com/kkowenn/data_minning_orange
