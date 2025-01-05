@@ -169,9 +169,9 @@ https://huggingface.co/spaces/kritsadaK/ThailandPM10PredictionApp2022
 
 [https://www.kaggle.com/code/kritsadakruapat/eda-forrlanguage](https://www.kaggle.com/code/kritsadakruapat/eda-forrlanguage)
 
-**SparkMLib Project:** Personalized Beer SVD Recommendations Using Spark MLlib 
+**SparkMLib Project:** Personalized Beer ASL Recommendations Using Spark MLlib 
 
-[https://www.kaggle.com/code/kritsadakruapat/svdbyusingsparkmllib](https://www.kaggle.com/code/kritsadakruapat/svdbyusingsparkmllib)
+[https://www.kaggle.com/code/kritsadakruapat/svdbyusingsparkmllib](https://www.kaggle.com/code/kritsadakruapat/als-alternating-least-squares-byusingsparkmllib/edit)
 
 #  ETC:
  
