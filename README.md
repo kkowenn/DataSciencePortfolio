@@ -122,6 +122,10 @@ https://huggingface.co/kritsadaK/UltraInteract-Llama-FT
 
 https://github.com/kkowenn/LINE-RAG-AI-Assistant
 
+**Project 6:** Ai hackathon : thai ner nlp task (cannot beat the baseline T-T)
+
+https://github.com/kkowenn/DataSciencePortfolio/blob/main/ner_wangchanberta_base_att.ipynb
+
 
 # MLflow Projects:
 
