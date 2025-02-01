@@ -124,8 +124,9 @@ https://github.com/kkowenn/LINE-RAG-AI-Assistant
 
 **Project 6:** Ai hackathon : thai ner nlp task (cannot beat the baseline T-T)
 
-https://github.com/kkowenn/DataSciencePortfolio/blob/main/ner_wangchanberta_base_att.ipynb
+https://github.com/kkowenn/DataSciencePortfolio/blob/main/NLP-hackathon/ner_wangchanberta_base_att.ipynbvz
 
+https://github.com/kkowenn/DataScienceProjects/blob/main/NLP-hackathon/monsoon_nlp_bert_base_thai.ipynb
 
 # MLflow Projects:
 
